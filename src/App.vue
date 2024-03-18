@@ -4,7 +4,7 @@
 
 <script setup>
 import BMICalculator from './components/BMICalculator.vue';
-const msg = 'This is my App';
+const msg = 'This is Andrew\'s Electron App for calculating BMI';
 </script>
 
 <style>
