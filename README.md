@@ -1,5 +1,7 @@
 # bmi-calculator
 
+This is a BMI calculator desktop app.
+
 ## Project setup
 ```
 npm install
